@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-repositorio de prueba del modulo 2 prepcourse
+este proyecto es una prueba de como clonar
